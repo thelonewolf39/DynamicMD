@@ -1,8 +1,8 @@
 import fs from 'fs';
 import fetch from 'node-fetch';
 
-const OWNER = 'yourusername';
-const REPO = 'yourrepo';
+const OWNER = 'thelonewolf39';
+const REPO = 'DynamicMD';
 
 async function generateStats() {
   const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}`);
