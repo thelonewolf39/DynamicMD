@@ -13,4 +13,4 @@ All widgets are automatically updated via **GitHub Actions** and can be embedded
 [!Github Stars](https://raw.githubusercontent.com/yourusername/DynamicMD/main/widgets/github-stats/stats.svg)
 ```
 Example:   
-[!Github Stars](https://raw.githubusercontent.com/thelonewolf39/DynamicMD/main/widgets/github-stats/stats.svg)
+![GitHub Stats](https://raw.githubusercontent.com/thelonewolf39/DynamicMD/main/widgets/github-stats/stats.svg)
