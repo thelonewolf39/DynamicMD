@@ -1,0 +1,8 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="80">
+  <rect width="300" height="80" fill="#24292f" rx="10" />
+  <text x="20" y="25" font-size="16" fill="#ffffff">⭐ Stars: 0</text>
+  <text x="20" y="45" font-size="16" fill="#ffffff">🍴 Forks: 0</text>
+  <text x="20" y="65" font-size="16" fill="#ffffff">🐞 Issues: 0</text>
+</svg>
+  
