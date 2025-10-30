@@ -10,7 +10,7 @@ All widgets are automatically updated via **GitHub Actions** and can be embedded
 
 **Embed in Markdown:**
 ```
-[!Github Stars](https://raw.githubusercontent.com/yourusername/DynamicMD/main/widgets/github-stats/stats.svg)
+[!Github Stars](https://raw.githubusercontent.com/yourusername/your_repo/main/widgets/github-stats/stats.svg)
 ```
 Example:   
 ![GitHub Stats](https://raw.githubusercontent.com/thelonewolf39/DynamicMD/main/widgets/github-stats/stats.svg)
